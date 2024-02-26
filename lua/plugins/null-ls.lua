@@ -25,8 +25,6 @@ return {
         null_ls.builtins.formatting.clang_format,
 
         -- Shell
-        null_ls.builtins.code_actions.shellcheck,
-        null_ls.builtins.diagnostics.shellcheck,
         null_ls.builtins.formatting.shfmt,
 
         -- Python
